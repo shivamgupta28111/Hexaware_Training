@@ -1,2 +1,2 @@
 # Hexaware_Training
-Training Project- CanteenManagement system 
+Training Project- Canteen Management system 
